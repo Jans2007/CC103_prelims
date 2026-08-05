@@ -1,0 +1,6 @@
+class Profile:
+    name = ("Jansen P. Nunag")
+    age = 18
+    add = ("San Francisco 2")
+    fav = ("blue")
+    print(f"my name is {name} and im {age} from {add} and my favorite color is {fav}")
